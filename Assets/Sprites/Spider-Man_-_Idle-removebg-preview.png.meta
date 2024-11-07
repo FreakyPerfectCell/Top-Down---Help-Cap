@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: f0f16dfd3cc29ca4aba6ea178931dbf4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 102
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f07e60fd42df3498053d1671bd5ec3
+      internalID: 557075150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 35
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73584772a2e4df84c87a614817026a13
+      internalID: 194171292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 16
+        width: 105
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c8660063b09494aa0ed4a96745f3cc
+      internalID: -2056485270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 39
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e404918658e8f04fb955cdf7f192377
+      internalID: -313468586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 39
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316463fb4f502504fb66aae04509447f
+      internalID: -1525344532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 16
+        width: 108
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f08c6e672848154caf5a705af62c109
+      internalID: -806732561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 16
+        width: 111
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b709f78211130439af0d5ec6f558f4
+      internalID: 1823275375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 38
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb480d56c49bce40a8b408418ca8e25
+      internalID: 1100649318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 37
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf1967d7ffb2d54b90fe2c34395bb51
+      internalID: 250468791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 112
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad481b6ae8d5484ca31c8eb1008d915
+      internalID: 1272415648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 38
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d080cab2101b4ea7efd51ec2728d1
+      internalID: 603538993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 38
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003ba1015744a264ba6c145df964879e
+      internalID: 847721101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 16
+        width: 112
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272697fa59e7d014a8eff5780509ae77
+      internalID: 1952445909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 37
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a34fdfb1529a443b2b306bf494db11
+      internalID: -24311161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 16
+        width: 111
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec3b052eb9123341a1fa4cc2593b66a
+      internalID: 975386584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 38
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e06053b02004d94080d772c200bcdcc
+      internalID: 1360214248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 0
+        width: 37
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a81beceeb1b99447b44ea71271293fe
+      internalID: 783217354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 16
+        width: 109
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793995b00c5457c4eb7cd7823de96ca0
+      internalID: -580091442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 16
+        width: 105
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58374284c8308824aac4e7abf8a52d22
+      internalID: 1409251432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man_-_Idle-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 16
+        width: 103
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a41913c94542347835c11dbd28f30d
+      internalID: 898704303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spider-Man_-_Idle-removebg-preview_0: 557075150
+      Spider-Man_-_Idle-removebg-preview_1: 194171292
+      Spider-Man_-_Idle-removebg-preview_10: 603538993
+      Spider-Man_-_Idle-removebg-preview_11: 847721101
+      Spider-Man_-_Idle-removebg-preview_12: 1952445909
+      Spider-Man_-_Idle-removebg-preview_13: -24311161
+      Spider-Man_-_Idle-removebg-preview_14: 975386584
+      Spider-Man_-_Idle-removebg-preview_15: 1360214248
+      Spider-Man_-_Idle-removebg-preview_16: 783217354
+      Spider-Man_-_Idle-removebg-preview_17: -580091442
+      Spider-Man_-_Idle-removebg-preview_18: 1409251432
+      Spider-Man_-_Idle-removebg-preview_19: 898704303
+      Spider-Man_-_Idle-removebg-preview_2: -2056485270
+      Spider-Man_-_Idle-removebg-preview_3: -313468586
+      Spider-Man_-_Idle-removebg-preview_4: -1525344532
+      Spider-Man_-_Idle-removebg-preview_5: -806732561
+      Spider-Man_-_Idle-removebg-preview_6: 1823275375
+      Spider-Man_-_Idle-removebg-preview_7: 1100649318
+      Spider-Man_-_Idle-removebg-preview_8: 250468791
+      Spider-Man_-_Idle-removebg-preview_9: 1272415648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
